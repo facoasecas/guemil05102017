@@ -1,0 +1,369 @@
+{
+  "licencia": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "test": {
+    "pictogramas": [
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/01_Gv05-Man.svg",
+        "nombre": "01_Man",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/02_Gv05-Woman.svg",
+        "nombre": "02_Woman",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/03_Gv05-Assembly_couple.svg",
+        "nombre": "03_Assembly_couple",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/04_Gv05-Disabled.svg",
+        "nombre": "04_Disabled",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/05_Gv05-Assembly_group.svg",
+        "nombre": "05_Assembly_group",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/06_Gv05-Assembly_family.svg",
+        "nombre": "06_Assembly_family",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/07_Gv05b-Girl.svg",
+        "nombre": "07_Girl",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/08_Gv05b-Boy.svg",
+        "nombre": "08_Boy",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/09_Gv05-Authority_instruction.svg",
+        "nombre": "09_Authority_instruction",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/10_Gv05-Help_others.svg",
+        "nombre": "10_Help_others",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/11_Gv05-Keep_safe.svg",
+        "nombre": "11_Keep_safe",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/12_Gv05-Evacuate_vertical.svg",
+        "nombre": "12_Evacuate_vertical",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/13_Gv05-Evacuate_downstairs.svg",
+        "nombre": "13_Evacuate_downstairs",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/14_Gv05-Evacuate_male_pedestrian.svg",
+        "nombre": "14_Evacuate_male_pedestrian",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/15_Gv05-Evacuate_female_pedestrian.svg",
+        "nombre": "15_Evacuate_female_pedestrian",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/16_Gv05-Evacuate.svg",
+        "nombre": "16_Evacuate",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/17_Gv05-Evacuate_fast.svg",
+        "nombre": "17_Evacuate_fast",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/18_Gv05-Evacuate_way_out.svg",
+        "nombre": "18_Evacuate_way_out",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/19_Gv05-Move_to_shelter.svg",
+        "nombre": "19_Move_to_shelter",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/20_Gv05-Warning_tsunami_risk.svg",
+        "nombre": "20_Warning_tsunami_risk",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/21_Gv05b-Warning_evacuation_way.svg",
+        "nombre": "21_Warning_evacuation_way",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/22_Gv05-Warning_volcano_risk.svg",
+        "nombre": "22_Warning_volcano_risk",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/23_Gv05-Warning_sign.svg",
+        "nombre": "23_Warning_sign",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/24_Gv05b-Authorities.svg",
+        "nombre": "24_Authorities",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/25_Gv05-Food.svg",
+        "nombre": "25_Food",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/26_Gv05-Water.svg",
+        "nombre": "26_Water",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/27_Gv05-Geo_point.svg",
+        "nombre": "27_Geo_point",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/28_Gv05b-Map_point.svg",
+        "nombre": "28_Map_point",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/29_Gv05-School.svg",
+        "nombre": "29_School",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/30_Gv05-Hospital.svg",
+        "nombre": "30_Hospital",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/31_Gv05-Local_authority_bldg.svg",
+        "nombre": "31_Local_authority_bldg",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/32_Gv05-Orientation.svg",
+        "nombre": "32_Orientation",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/33_Gv05-Network.svg",
+        "nombre": "33_Network",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/34_Gv05-Radio.svg",
+        "nombre": "34_Radio",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/35_Gv05-Mobile_info.svg",
+        "nombre": "35_Mobile_info",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/36_Gv05-Mobile_message.svg",
+        "nombre": "36_Mobile_message",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/37_Gv05-Mobile_call.svg",
+        "nombre": "37_Mobile_call",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/38_Gv05-House.svg",
+        "nombre": "38_House",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/39_Gv05-Shelter.svg",
+        "nombre": "39_Shelter",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/40_Gv05-Temperature.svg",
+        "nombre": "40_Temperature",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/41_Gv05-Time.svg",
+        "nombre": "41_Time",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/42_Gv05-Volcano_fumarole.svg",
+        "nombre": "42_Volcano_fumarole",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/43_Gv05-Volcano_eruption.svg",
+        "nombre": "43_Volcano_eruption",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/44_Gv05b-Volcano_ashes.svg",
+        "nombre": "44_Volcano_ashes",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/45_Gv05-Tsunami.svg",
+        "nombre": "45_Tsunami",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/46_Gv05-Earthquake.svg",
+        "nombre": "46_Earthquake",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/47_Gv05-Rainfall.svg",
+        "nombre": "47_Rainfall",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/48_Gv05-Alluvium.svg",
+        "nombre": "48_Alluvium",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/49_Gv05b-Avalanche.svg",
+        "nombre": "49_Avalanche",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/50_Gv05-Forbidden.svg",
+        "nombre": "50_Forbidden",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/51_Gv05b-Flood.svg",
+        "nombre": "51_Flood",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/52_Gv05b-Fire.svg",
+        "nombre": "52_Fire",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/53_Gv05-Info_point.svg",
+        "nombre": "53_Info_point",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/54_Gv05-Not_allowed.svg",
+        "nombre": "54_Not_allowed",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/55_Gv05-Messaging_oneway.svg",
+        "nombre": "55_Messaging_oneway",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/56_Gv05-Messaging_twoways.svg",
+        "nombre": "56_Messaging_twoways",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/57_Gv05-Information.svg",
+        "nombre": "57_Information",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/58_Gv05-North_sign.svg",
+        "nombre": "58_North_sign",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/60_Gv05-Flagged_point.svg",
+        "nombre": "60_Flagged_point",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/61_Gv05b-Wifi.svg",
+        "nombre": "61_Wifi",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/62_Gv05b-@_internet.svg",
+        "nombre": "62_@_internet",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/65_Gv05-Radio_transmission.svg",
+        "nombre": "65_Radio_transmission",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/67_Gv05-Contain_message.svg",
+        "nombre": "67_Contain_message",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/68_Gv05-Warning_strip_1.svg",
+        "nombre": "68_Warning_strip_1",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/69_Gv05-Warning_strip_2.svg",
+        "nombre": "69_Warning_strip_2",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/71_Gv05-Arrow_ahead.svg",
+        "nombre": "71_Arrow_ahead",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/72_Gv05-Arrow_turn.svg",
+        "nombre": "72_Arrow_turn",
+        "respuestas": []
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/73_Gv05-Arrow_backward.svg",
+        "nombre": "73_Arrow_backward",
+        "respuestas":[]
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/91_Gv05-Two_way_horizontal.svg",
+        "nombre": "91_Two_way_horizontal",
+        "respuestas":[]
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/92_Gv05-Two_way_vertical.svg",
+        "nombre": "92_Two_way_vertical",
+        "respuestas":[]
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/96_Gv05-Contain_directional.svg",
+        "nombre": "96_Contain_directional",
+        "respuestas":[]
+      },
+      {
+        "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/97_Gv05-Contain_hexagon.svg",
+        "nombre": "97_Contain_hexagon",
+        "respuestas":[]
+      }
+    ],
+    "version": "2017-05-10T14:30:00"
+  },
+  "url": "http://www.guemil.info"
+}
