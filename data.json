@@ -39756,513 +39756,519 @@
         "imagen": "http://www.guemil.info/wp-content/uploads/2016/07/97_Gv05-Contain_hexagon.svg",
         "nombre": "97_Contain_hexagon",
         "respuestas": [
-          {
-            "id": 1,
-            "respuesta": "NO",
-            "puntaje": 1
-          },
-          {
-            "id": 2,
-            "respuesta": "No Ingresar",
-            "puntaje": 1
-          },
-          {
-            "id": 3,
-            "respuesta": "esto no!",
-            "puntaje": 1
-          },
-          {
-            "id": 4,
-            "respuesta": "no estar",
-            "puntaje": 1
-          },
-          {
-            "id": 5,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 6,
-            "respuesta": "error",
-            "puntaje": 3
-          },
-          {
-            "id": 7,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 8,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 9,
-            "respuesta": "No pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 10,
-            "respuesta": "no pasar/prohibido/restringido",
-            "puntaje": 1
-          },
-          {
-            "id": 11,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 12,
-            "respuesta": "alto",
-            "puntaje": 1
-          },
-          {
-            "id": 13,
-            "respuesta": "bloqueado",
-            "puntaje": 1
-          },
-          {
-            "id": 14,
-            "respuesta": "equivocado",
-            "puntaje": 2
-          },
-          {
-            "id": 15,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 16,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 17,
-            "respuesta": "no, error, prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 18,
-            "respuesta": "prohibición",
-            "puntaje": 1
-          },
-          {
-            "id": 19,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 20,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 21,
-            "respuesta": "aquí no",
-            "puntaje": 1
-          },
-          {
-            "id": 22,
-            "respuesta": "no ",
-            "puntaje": 1
-          },
-          {
-            "id": 23,
-            "respuesta": "no entrar",
-            "puntaje": 1
-          },
-          {
-            "id": 24,
-            "respuesta": "Por aqui no",
-            "puntaje": 1
-          },
-          {
-            "id": 25,
-            "respuesta": "prohibición",
-            "puntaje": 1
-          },
-          {
-            "id": 26,
-            "respuesta": "CRUCE",
-            "puntaje": 4
-          },
-          {
-            "id": 27,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 28,
-            "respuesta": "No - Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 29,
-            "respuesta": "no/prohibited",
-            "puntaje": 1
-          },
-          {
-            "id": 30,
-            "respuesta": "NO",
-            "puntaje": 1
-          },
-          {
-            "id": 31,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 32,
-            "respuesta": "No",
-            "puntaje": 1
-          },
-          {
-            "id": 33,
-            "respuesta": "No pase",
-            "puntaje": 1
-          },
-          {
-            "id": 34,
-            "respuesta": "Mal / prohibido en cualquier circunstancia",
-            "puntaje": 1
-          },
-          {
-            "id": 35,
-            "respuesta": "Prohibido, cruce",
-            "puntaje": 1
-          },
-          {
-            "id": 36,
-            "respuesta": "stop/inaccessible/no",
-            "puntaje": 1
-          },
-          {
-            "id": 37,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 38,
-            "respuesta": "NO",
-            "puntaje": 1
-          },
-          {
-            "id": 39,
-            "respuesta": "incorrecto",
-            "puntaje": 2
-          },
-          {
-            "id": 40,
-            "respuesta": "Rechazar / Denegado / Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 41,
-            "respuesta": "No pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 42,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 43,
-            "respuesta": "prohibición",
-            "puntaje": 1
-          },
-          {
-            "id": 44,
-            "respuesta": "Bad",
-            "puntaje": 2
-          },
-          {
-            "id": 45,
-            "respuesta": "Do not go here",
-            "puntaje": 1
-          },
-          {
-            "id": 46,
-            "respuesta": "No ",
-            "puntaje": 1
-          },
-          {
-            "id": 47,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 48,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 49,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 50,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 51,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 52,
-            "puntaje": 6
-          },
-          {
-            "id": 53,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 54,
-            "respuesta": "erróneo",
-            "puntaje": 3
-          },
-          {
-            "id": 55,
-            "respuesta": "no/ prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 56,
-            "respuesta": "C",
-            "puntaje": 6
-          },
-          {
-            "id": 57,
-            "respuesta": "no permitido ",
-            "puntaje": 1
-          },
-          {
-            "id": 58,
-            "respuesta": "No me representa nada ",
-            "puntaje": 6
-          },
-          {
-            "id": 59,
-            "respuesta": "forbidden",
-            "puntaje": 1
-          },
-          {
-            "id": 60,
-            "respuesta": "NO",
-            "puntaje": 1
-          },
-          {
-            "id": 61,
-            "respuesta": "prohivido",
-            "puntaje": 1
-          },
-          {
-            "id": 62,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 63,
-            "respuesta": "Peligroso",
-            "puntaje": 3
-          },
-          {
-            "id": 64,
-            "respuesta": "Error",
-            "puntaje": 3
-          },
-          {
-            "id": 65,
-            "puntaje": 6
-          },
-          {
-            "id": 66,
-            "respuesta": "restringido ",
-            "puntaje": 1
-          },
-          {
-            "id": 67,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 68,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 69,
-            "puntaje": 6
-          },
-          {
-            "id": 70,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 71,
-            "respuesta": "incorrecto",
-            "puntaje": 1
-          },
-          {
-            "id": 72,
-            "respuesta": "CANCELADO",
-            "puntaje": 1
-          },
-          {
-            "id": 73,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 74,
-            "respuesta": "Prohibido / No",
-            "puntaje": 1
-          },
-          {
-            "id": 75,
-            "respuesta": "PROIVIDO",
-            "puntaje": 1
-          },
-          {
-            "id": 76,
-            "respuesta": "Incorrecto",
-            "puntaje": 1
-          },
-          {
-            "id": 77,
-            "puntaje": 6
-          },
-          {
-            "id": 78,
-            "respuesta": "restringido",
-            "puntaje": 1
-          },
-          {
-            "id": 79,
-            "respuesta": "icorrecto",
-            "puntaje": 1
-          },
-          {
-            "id": 80,
-            "respuesta": "CANCELAR",
-            "puntaje": 1
-          },
-          {
-            "id": 81,
-            "respuesta": "malo",
-            "puntaje": 2
-          },
-          {
-            "id": 82,
-            "respuesta": "Prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 83,
-            "respuesta": "no pasar",
-            "puntaje": 1
-          },
-          {
-            "id": 84,
-            "respuesta": "no/don't",
-            "puntaje": 1
-          },
-          {
-            "id": 85,
-            "respuesta": "Negación de algo",
-            "puntaje": 1
-          },
-          {
-            "id": 86,
-            "respuesta": "you are here",
-            "puntaje": 4
-          },
-          {
-            "id": 87,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 88,
-            "respuesta": "dont do it",
-            "puntaje": 1
-          },
-          {
-            "id": 89,
-            "respuesta": "Meeting Spot",
-            "puntaje": 4
-          },
-          {
-            "id": 90,
-            "respuesta": "Railway crossing",
-            "puntaje": 4
-          },
-          {
-            "id": 91,
-            "respuesta": "do not cross",
-            "puntaje": 1
-          },
-          {
-            "id": 92,
-            "respuesta": "No Access",
-            "puntaje": 1
-          },
-          {
-            "id": 93,
-            "respuesta": "no access ",
-            "puntaje": 1
-          },
-          {
-            "id": 94,
-            "respuesta": "dont",
-            "puntaje": 1
-          },
-          {
-            "id": 95,
-            "respuesta": "deny",
-            "puntaje": 1
-          },
-          {
-            "id": 96,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 97,
-            "respuesta": "Location Marker",
-            "puntaje": 4
-          },
-          {
-            "id": 98,
-            "respuesta": "Cruz",
-            "puntaje": 1
-          },
-          {
-            "id": 99,
-            "respuesta": "prohibido",
-            "puntaje": 1
-          },
-          {
-            "id": 100,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 101,
-            "respuesta": "no",
-            "puntaje": 1
-          },
-          {
-            "id": 102,
-            "respuesta": "no",
-            "puntaje": 1
-          }
-        ]
+    {
+        "id": 1,
+        "respuesta": "Algo que hay que tener en consideración",
+        "puntaje": 3
+    },
+    {
+        "id": 2,
+        "puntaje": 6
+    },
+    {
+        "id": 3,
+        "respuesta": "no entiendo",
+        "puntaje": 6
+    },
+    {
+        "id": 4,
+        "puntaje": 6
+    },
+    {
+        "id": 5,
+        "respuesta": "No sé",
+        "puntaje": 6
+    },
+    {
+        "id": 6,
+        "respuesta": "-",
+        "puntaje": 6
+    },
+    {
+        "id": 7,
+        "respuesta": "stop",
+        "puntaje": 4
+    },
+    {
+        "id": 8,
+        "respuesta": "nada",
+        "puntaje": 6
+    },
+    {
+        "id": 9,
+        "puntaje": 6
+    },
+    {
+        "id": 10,
+        "respuesta": "Sitio cerrado",
+        "puntaje": 4
+    },
+    {
+        "id": 11,
+        "respuesta": "punto de encuentro",
+        "puntaje": 1
+    },
+    {
+        "id": 12,
+        "puntaje": 6
+    },
+    {
+        "id": 13,
+        "respuesta": "Sitio Cerrado",
+        "puntaje": 4
+    },
+    {
+        "id": 14,
+        "respuesta": "alto",
+        "puntaje": 4
+    },
+    {
+        "id": 15,
+        "respuesta": "contenedor",
+        "puntaje": 4
+    },
+    {
+        "id": 16,
+        "respuesta": "lugar cerrado",
+        "puntaje": 4
+    },
+    {
+        "id": 17,
+        "respuesta": "cubo",
+        "puntaje": 3
+    },
+    {
+        "id": 18,
+        "respuesta": "punto de encuentro",
+        "puntaje": 2
+    },
+    {
+        "id": 19,
+        "respuesta": "punto de encuentro",
+        "puntaje": 2
+    },
+    {
+        "id": 20,
+        "puntaje": 6
+    },
+    {
+        "id": 21,
+        "respuesta": "cubo negro",
+        "puntaje": 3
+    },
+    {
+        "id": 22,
+        "puntaje": 6
+    },
+    {
+        "id": 23,
+        "respuesta": "espacio / figura geométrica",
+        "puntaje": 3
+    },
+    {
+        "id": 24,
+        "respuesta": "Sólido / Seguridad ",
+        "puntaje": 3
+    },
+    {
+        "id": 25,
+        "puntaje": 6
+    },
+    {
+        "id": 26,
+        "respuesta": "espacio cerrado",
+        "puntaje": 4
+    },
+    {
+        "id": 27,
+        "respuesta": " nada",
+        "puntaje": 6
+    },
+    {
+        "id": 28,
+        "respuesta": "hexágono",
+        "puntaje": 3
+    },
+    {
+        "id": 29,
+        "puntaje": 6
+    },
+    {
+        "id": 30,
+        "respuesta": "Atención",
+        "puntaje": 4
+    },
+    {
+        "id": 31,
+        "respuesta": "-",
+        "puntaje": 6
+    },
+    {
+        "id": 32,
+        "respuesta": "NADA",
+        "puntaje": 6
+    },
+    {
+        "id": 33,
+        "respuesta": "refugio",
+        "puntaje": 1
+    },
+    {
+        "id": 34,
+        "respuesta": "Precaución",
+        "puntaje": 3
+    },
+    {
+        "id": 35,
+        "respuesta": "FUTURO ESCUDO",
+        "puntaje": 4
+    },
+    {
+        "id": 36,
+        "respuesta": "cubo negro? ",
+        "puntaje": 3
+    },
+    {
+        "id": 37,
+        "respuesta": "Punto de encuentro",
+        "puntaje": 2
+    },
+    {
+        "id": 38,
+        "respuesta": "Señal",
+        "puntaje": 3
+    },
+    {
+        "id": 39,
+        "respuesta": "Hexágono",
+        "puntaje": 3
+    },
+    {
+        "id": 40,
+        "respuesta": "Alguna señal",
+        "puntaje": 3
+    },
+    {
+        "id": 41,
+        "respuesta": "caution",
+        "puntaje": 4
+    },
+    {
+        "id": 42,
+        "respuesta": "obligación",
+        "puntaje": 4
+    },
+    {
+        "id": 43,
+        "respuesta": "precaución",
+        "puntaje": 4
+    },
+    {
+        "id": 44,
+        "respuesta": "cubo negro",
+        "puntaje": 3
+    },
+    {
+        "id": 45,
+        "respuesta": "Paquete de Datos",
+        "puntaje": 4
+    },
+    {
+        "id": 46,
+        "respuesta": "Caja",
+        "puntaje": 4
+    },
+    {
+        "id": 47,
+        "respuesta": "lugar, edificio",
+        "puntaje": 3
+    },
+    {
+        "id": 48,
+        "respuesta": "?",
+        "puntaje": 6
+    },
+    {
+        "id": 49,
+        "respuesta": "?",
+        "puntaje": 6
+    },
+    {
+        "id": 50,
+        "respuesta": "seguro",
+        "puntaje": 3
+    },
+    {
+        "id": 51,
+        "respuesta": "contenedor neutro",
+        "puntaje": 4
+    },
+    {
+        "id": 52,
+        "puntaje": 6
+    },
+    {
+        "id": 53,
+        "respuesta": " refugio",
+        "puntaje": 1
+    },
+    {
+        "id": 54,
+        "puntaje": 6
+    },
+    {
+        "id": 55,
+        "puntaje": 6
+    },
+    {
+        "id": 56,
+        "respuesta": "Ninguno",
+        "puntaje": 6
+    },
+    {
+        "id": 57,
+        "respuesta": "REFUGIO",
+        "puntaje": 1
+    },
+    {
+        "id": 58,
+        "puntaje": 6
+    },
+    {
+        "id": 59,
+        "respuesta": "encuentro ",
+        "puntaje": 2
+    },
+    {
+        "id": 60,
+        "respuesta": "…",
+        "puntaje": 6
+    },
+    {
+        "id": 61,
+        "respuesta": "alerta ",
+        "puntaje": 4
+    },
+    {
+        "id": 62,
+        "respuesta": "Obligación ",
+        "puntaje": 4
+    },
+    {
+        "id": 63,
+        "respuesta": "disturbingly irregular hexagon?",
+        "puntaje": 4
+    },
+    {
+        "id": 64,
+        "puntaje": 6
+    },
+    {
+        "id": 65,
+        "respuesta": "parar",
+        "puntaje": 4
+    },
+    {
+        "id": 66,
+        "respuesta": "Aviso",
+        "puntaje": 3
+    },
+    {
+        "id": 67,
+        "respuesta": "Pentagono",
+        "puntaje": 4
+    },
+    {
+        "id": 68,
+        "puntaje": 6
+    },
+    {
+        "id": 69,
+        "puntaje": 6
+    },
+    {
+        "id": 70,
+        "respuesta": "alerta",
+        "puntaje": 4
+    },
+    {
+        "id": 71,
+        "puntaje": 6
+    },
+    {
+        "id": 72,
+        "puntaje": 6
+    },
+    {
+        "id": 73,
+        "respuesta": "alta precaución ",
+        "puntaje": 4
+    },
+    {
+        "id": 74,
+        "respuesta": "x",
+        "puntaje": 6
+    },
+    {
+        "id": 75,
+        "puntaje": 6
+    },
+    {
+        "id": 76,
+        "puntaje": 6
+    },
+    {
+        "id": 77,
+        "puntaje": 6
+    },
+    {
+        "id": 78,
+        "respuesta": "Base",
+        "puntaje": 3
+    },
+    {
+        "id": 79,
+        "respuesta": "punto",
+        "puntaje": 3
+    },
+    {
+        "id": 80,
+        "respuesta": "zona de seguridad",
+        "puntaje": 2
+    },
+    {
+        "id": 81,
+        "puntaje": 6
+    },
+    {
+        "id": 82,
+        "puntaje": 6
+    },
+    {
+        "id": 83,
+        "respuesta": "cuidado ",
+        "puntaje": 4
+    },
+    {
+        "id": 84,
+        "respuesta": "Señaletica",
+        "puntaje": 4
+    },
+    {
+        "id": 85,
+        "respuesta": "detenerse",
+        "puntaje": 4
+    },
+    {
+        "id": 86,
+        "respuesta": "stop",
+        "puntaje": 4
+    },
+    {
+        "id": 87,
+        "respuesta": "Caution",
+        "puntaje": 4
+    },
+    {
+        "id": 88,
+        "puntaje": 6
+    },
+    {
+        "id": 89,
+        "respuesta": "nothing",
+        "puntaje": 6
+    },
+    {
+        "id": 90,
+        "respuesta": "Alert",
+        "puntaje": 3
+    },
+    {
+        "id": 91,
+        "respuesta": "shelter ",
+        "puntaje": 1
+    },
+    {
+        "id": 92,
+        "respuesta": "?",
+        "puntaje": 6
+    },
+    {
+        "id": 93,
+        "respuesta": "-",
+        "puntaje": 6
+    },
+    {
+        "id": 94,
+        "respuesta": "escudo",
+        "puntaje": 4
+    },
+    {
+        "id": 95,
+        "respuesta": " Pare",
+        "puntaje": 4
+    },
+    {
+        "id": 96,
+        "respuesta": "Refugio",
+        "puntaje": 1
+    },
+    {
+        "id": 97,
+        "respuesta": "alto",
+        "puntaje": 4
+    },
+    {
+        "id": 98,
+        "respuesta": "alerta",
+        "puntaje": 4
+    },
+    {
+        "id": 99,
+        "respuesta": "…",
+        "puntaje": 6
+    },
+    {
+        "id": 100,
+        "respuesta": "refugio",
+        "puntaje": 1
+    },
+    {
+        "id": 101,
+        "respuesta": "precaución",
+        "puntaje": 4
+    },
+    {
+        "id": 102,
+        "respuesta": "Alerta",
+        "puntaje": 4
+    },
+    {
+        "id": 103,
+        "respuesta": "Hexagon",
+        "puntaje": 3
+    },
+    {
+        "id": 104,
+        "respuesta": "Cube",
+        "puntaje": 3
+    },
+    {
+        "id": 105,
+        "respuesta": "cube",
+        "puntaje": 3
+    },
+    {
+        "id": 106,
+        "respuesta": "back cube??",
+        "puntaje": 3
+    },
+    {
+        "id": 107,
+        "respuesta": "Keyhole",
+        "puntaje": 4
+    }
+]
       }
     ],
     "version": "2017-05-10T15:42:00"
